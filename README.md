@@ -132,7 +132,7 @@ All I2C devices share the same data and clock lines:
 
 ## Circuit Diagram
 
-For detailed circuit diagram and visual reference, see [Wiring details.md](./Wiring%20details.md)
+<img src="https://github.com/Loufok0/Self-driving-car/blob/main/medias/circuit_true_true_true_true.png">
 
 ## Software Setup
 
@@ -149,3 +149,7 @@ For detailed circuit diagram and visual reference, see [Wiring details.md](./Wir
    ```bash
    git clone https://github.com/Loufok0/Self-driving-car.git
    cd Self-driving-car
+
+## Safety Disclaimer
+This project is for educational purposes only. Ensure you operate in a safe environment and comply with local laws and regulations regarding autonomous vehicles.
+We do not takes any responsabilities in reproducing this repo instructions.
