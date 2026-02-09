@@ -152,4 +152,5 @@ All I2C devices share the same data and clock lines:
 
 ## Safety Disclaimer
 This project is for educational purposes only. Ensure you operate in a safe environment and comply with local laws and regulations regarding autonomous vehicles.
+Verify theses informations by yourself. (just to make sure you don't burn your house, you know... just being cautious...)
 We do not takes any responsabilities in reproducing this repo instructions.
